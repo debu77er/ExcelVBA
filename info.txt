@@ -1,3 +1,5 @@
 https://learn.microsoft.com/en-us/office/vba/language/reference/user-interface-help/createobject-function
 
 In VBA, the Set keyword is necessary to distinguish between assignment of an object and assignment of the default property of the object.
+
+https://stackoverflow.com/questions/79930071
